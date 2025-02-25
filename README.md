@@ -26,5 +26,5 @@ docker compose up -d
 Then run the Neo4j integration tests:
 
 ```bash
-go test -tags Neo4j
+go test -tags neo4j
 ```
